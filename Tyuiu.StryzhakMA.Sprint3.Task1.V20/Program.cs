@@ -16,7 +16,7 @@ namespace Tyuiu.StryzhakMA.Sprint3.Task1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ :                                                               *");
             Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму        *");
-            Console.WriteLine("* ряда по формуле                                                   *");
+            Console.WriteLine("* ряда по формуле                                                         *");
             Console.WriteLine("*                                                                         *");
 
             DataService ds = new DataService();
