@@ -15,10 +15,10 @@ namespace Tyuiu.StryzhakMA.Sprint3.Task4.V24.Lib
                 }
                 else
                 {
-                    res = res * (Math.Sin(x) / x) + 2;
+                    res = res * ((Math.Sin(x) / x) + 2);
                 }  
             }
-            return Math.Round(res, 3);
+            return Math.Round(res, 2);
         }
     }
 }
